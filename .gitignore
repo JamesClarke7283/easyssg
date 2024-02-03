@@ -1,0 +1,5 @@
+/target
+Cargo.lock
+prompt.txt
+errors.log
+_build
